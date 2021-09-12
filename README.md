@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javaScript
 - 📫 nabilaamade@gmail.com
 - 💜 She/her 
- - ⚡ Fun fact: I code 🤓 ...
+ - ⚡ Fun fact: I code😬 ...
  <div>
   <a href="https://github.com/Nabila01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabila01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
